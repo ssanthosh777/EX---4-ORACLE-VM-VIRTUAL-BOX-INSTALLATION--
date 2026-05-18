@@ -1,7 +1,8 @@
 # EX---3-ORACLE-VM-VIRTUAL-BOX-INSTALLATION--
-# Name: Pragadeesh S
-# Register Number: 212224220073
-
+```
+Name: SANTHOSH S
+Register Number: 212224100052
+```
 ## AIM:
 To install Oracle VM VirtualBox, a free and open-source hosted hypervisor, on a computer system,enabling the creation and management of virtual machines for running multiple operating systems on a single host machine
 ### EQUIPMENTS REQUIRED:
